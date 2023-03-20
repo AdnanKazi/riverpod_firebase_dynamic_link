@@ -1,4 +1,4 @@
-package com.example.riverpod_firebase_dynamic_link
+package com.example.riverpodfirebasedynamiclink
 
 import io.flutter.embedding.android.FlutterActivity
 

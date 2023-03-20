@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.riverpod_firebase_dynamic_link">
+    package="com.example.riverpodfirebasedynamiclink">
    <application
         android:label="riverpod_firebase_dynamic_link"
         android:name="${applicationName}"
